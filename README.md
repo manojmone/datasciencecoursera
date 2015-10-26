@@ -1,2 +1,2 @@
 # datasciencecoursera
-My Repository fro the Coursera Data Science Course
+My Repository for the Coursera Data Science Course
